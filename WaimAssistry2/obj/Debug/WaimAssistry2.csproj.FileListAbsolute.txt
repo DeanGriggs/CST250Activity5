@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\bin\Debug\WaimAssistry2.exe.config
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\bin\Debug\WaimAssistry2.exe
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\bin\Debug\WaimAssistry2.pdb
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.Form1.resources
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.Properties.Resources.resources
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.exe
+C:\Users\User\Desktop\CST-250\Week5\WaimAssistry2\obj\Debug\WaimAssistry2.pdb
